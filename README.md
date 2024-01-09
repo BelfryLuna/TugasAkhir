@@ -1,5 +1,4 @@
 # Expert System For Early Diagnosis Of Gastric Disease Using Web-based Naive Bayes Method
-> Outline a brief description of your project.
 
 ## Table of Contents
 * [General Info](#general-information)
