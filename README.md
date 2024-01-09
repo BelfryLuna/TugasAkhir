@@ -13,13 +13,12 @@
 
 
 ## General Information
-This project i made for 
-
+This is my final project, in this project I created an expert system that can provide an initial diagnosis of types of gastric diseases such as gastritis, GERD and dyspepsia based on clinical symptoms experienced by users.
 
 ## Technologies Used
 - PHP - version 7.4
 - Codeigniter - version 4.4.4
-- KTML
+- HTML
 - Javascript
 - CSS
 
